@@ -1,0 +1,30 @@
+* {
+    background-color: blue;
+}
+p {
+padding: 50px;
+color: blue;
+background-color: greenyellow;
+font-size: 28px;
+}
+.heading {
+ margin: 30px;
+ font-weight: bolder;
+ background-color: black;
+ color: white;
+ text-align: center;   
+}
+#pic {
+color: red;
+background-color: blue;
+font-style: bold;
+font-size: 35px;
+padding-top: 0;
+}
+footer {
+text-align: center;
+font-style: italic;
+}
+div{
+    text-align:center;
+}
